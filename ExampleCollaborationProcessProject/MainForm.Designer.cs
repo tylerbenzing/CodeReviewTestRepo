@@ -47,7 +47,7 @@
             this.btnTest2.Name = "btnTest2";
             this.btnTest2.Size = new System.Drawing.Size(75, 75);
             this.btnTest2.TabIndex = 1;
-            this.btnTest2.Text = "TEST 2";
+            this.btnTest2.Text = "TEST 2 HOT FIX";
             this.btnTest2.UseVisualStyleBackColor = true;
             // 
             // MainForm
