@@ -31,12 +31,9 @@
             this.btnTest = new System.Windows.Forms.Button();
             this.btnTest2 = new System.Windows.Forms.Button();
             this.btnTest3 = new System.Windows.Forms.Button();
-<<<<<<< HEAD
             this.btnTest4 = new System.Windows.Forms.Button();
             this.btnTest5 = new System.Windows.Forms.Button();
-=======
             this.btnHotfix1 = new System.Windows.Forms.Button();
->>>>>>> master
             this.SuspendLayout();
             // 
             // btnTest
@@ -66,7 +63,6 @@
             this.btnTest3.Text = "TEST 3";
             this.btnTest3.UseVisualStyleBackColor = true;
             // 
-<<<<<<< HEAD
             // btnTest4
             // 
             this.btnTest4.Location = new System.Drawing.Point(255, 12);
@@ -84,7 +80,6 @@
             this.btnTest5.TabIndex = 4;
             this.btnTest5.Text = "TEST 5";
             this.btnTest5.UseVisualStyleBackColor = true;
-=======
             // btnHotfix1
             // 
             this.btnHotfix1.Location = new System.Drawing.Point(12, 93);
@@ -93,19 +88,15 @@
             this.btnHotfix1.TabIndex = 3;
             this.btnHotfix1.Text = "HOT FIX 1";
             this.btnHotfix1.UseVisualStyleBackColor = true;
->>>>>>> master
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 761);
-<<<<<<< HEAD
             this.Controls.Add(this.btnTest5);
             this.Controls.Add(this.btnTest4);
-=======
             this.Controls.Add(this.btnHotfix1);
->>>>>>> master
             this.Controls.Add(this.btnTest3);
             this.Controls.Add(this.btnTest2);
             this.Controls.Add(this.btnTest);
@@ -121,12 +112,9 @@
         private System.Windows.Forms.Button btnTest;
         private System.Windows.Forms.Button btnTest2;
         private System.Windows.Forms.Button btnTest3;
-<<<<<<< HEAD
         private System.Windows.Forms.Button btnTest4;
         private System.Windows.Forms.Button btnTest5;
-=======
         private System.Windows.Forms.Button btnHotfix1;
->>>>>>> master
     }
 }
 
